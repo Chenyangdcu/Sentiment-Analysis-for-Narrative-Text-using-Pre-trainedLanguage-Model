@@ -3,13 +3,11 @@
 Dataset is from the following PhD thesis:
 
 @phdthesis{alm2008affect,
-  title={Affect in Text and Speech},
+    title={Affect in Text and Speech},
   
+    author={Alm, Cecilia},
   
-  author={Alm, Cecilia},
-  
-  
-  year={2008},
+    year={2008},
  
-  school={University of Illinois at Urbana-Champaign}
+    school={University of Illinois at Urbana-Champaign}
 }
