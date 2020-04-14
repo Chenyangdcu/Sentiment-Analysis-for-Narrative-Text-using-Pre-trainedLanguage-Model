@@ -2,7 +2,7 @@
 
 Dataset is from the following PhD thesis:
 
-@phdthesis{alm2008affect,
+    @phdthesis{alm2008affect,
     title={Affect in Text and Speech},
   
     author={Alm, Cecilia},
@@ -10,4 +10,4 @@ Dataset is from the following PhD thesis:
     year={2008},
  
     school={University of Illinois at Urbana-Champaign}
-}
+    }
